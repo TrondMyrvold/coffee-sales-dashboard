@@ -55,4 +55,5 @@ The purpose of this project is to demonstrate my ability to transform raw data i
 
 ## Files
 
-**PowerBI → cofee_sales_dashboard_trond.pbix
+**PowerBI → coffee_sales_dashboard_trond.pbix
+**Data → coffee_sales.csv
