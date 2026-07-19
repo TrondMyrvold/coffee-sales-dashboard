@@ -22,7 +22,7 @@ The dashboard demonstrates how Business Intelligence tools such as Power BI can 
 
 ## Dashboard
 
-![Dashboard](Images/coffee_sales_dashboard.png)
+![Dashboard](Images/coffee_sales_dashboard_trond.pdf)
 
 ---
 
