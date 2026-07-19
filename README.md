@@ -1,4 +1,4 @@
-# Coffee Sales Dashboard
+# Coffee Sales Performance Report Dashboard
 
 ## Project Overview
 
